@@ -1,4 +1,5 @@
 public class A {
-
-    dsfdf;
+        public A(){
+            System.out.println("Printing for A.java");
+        }
 }
